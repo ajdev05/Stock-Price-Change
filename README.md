@@ -9,7 +9,7 @@ Identify price changes and trends in stocks.
 pip install matplotlib pandas datetime
 ```
 or 
-```
+``` 
 conda install matplotlib pandas datetime
 ```
 
